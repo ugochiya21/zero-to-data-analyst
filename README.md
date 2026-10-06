@@ -17,6 +17,7 @@ Click the file name, then click the **Download** button (↓) on the right.
 - `data/*.csv`: every table as CSV, for Excel, Power BI and Python
 - `data/sales_flat.csv`: completed sales, one row per item sold
 - `data/supplier_orders_messy.csv`: a messy file for cleaning practice
+- `data/bm_online_orders.json` and `data/exchange_rates_backup.json`: JSON and API practice (Chapter 28)
 
 ## Quick start
 1. Unzip the file into a folder you'll remember, e.g. `Documents\DataAnalysis`.
