@@ -2,6 +2,11 @@
 
 Free practice files for the book **Zero to Data Analyst: SQL, Excel, Power BI and Python, Step by Step, for Complete Beginners** by **DataBridge Academy**.
 
+## Get the book
+- **Amazon (Kindle and paperback):** https://www.amazon.com/dp/B0HMFTKGFF
+- **Nigeria (₦, instant download):** https://selar.com/651z512f16
+- **Free sample (Chapters 1-2):** [International (US$)](Zero_to_Data_Analyst_FREE_SAMPLE_International_USD.pdf) | [Nigeria (₦)](Zero_to_Data_Analyst_FREE_SAMPLE_Nigeria_Naira.pdf)
+
 ## Download the files for your edition
 
 | Your book | Download |
